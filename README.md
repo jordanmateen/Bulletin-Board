@@ -1,3 +1,8 @@
+This project is a result of a tutorial done by Jordan Mateen. The code was written by me but the instructions and directions  
+were provided by linked in learning. This is an attempt to practice learning react ONLY. 
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
